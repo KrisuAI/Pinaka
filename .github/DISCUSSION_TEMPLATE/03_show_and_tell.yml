@@ -1,0 +1,19 @@
+labels: [show-and-tell]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Share your awesome tests and success stories with KrisuAI Pinaka!
+
+  - type: textarea
+    attributes:
+      label: What did you build?
+      description: Tell us about your test automation project
+      placeholder: I used KrisuAI Pinaka to...
+
+  - type: textarea
+    attributes:
+      label: Screenshots or Demo
+      description: Share screenshots, videos, or links
+      placeholder: Add images or links here...

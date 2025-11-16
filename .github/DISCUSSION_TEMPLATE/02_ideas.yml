@@ -1,0 +1,13 @@
+labels: [idea]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Share your ideas for improving KrisuAI Pinaka
+
+  - type: textarea
+    attributes:
+      label: Idea Description
+      description: Describe your idea
+      placeholder: I think it would be great if...

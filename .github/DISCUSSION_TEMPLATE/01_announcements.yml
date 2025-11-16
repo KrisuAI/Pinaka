@@ -1,0 +1,7 @@
+labels: [announcement]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this template for official announcements about KrisuAI Pinaka
